@@ -13,6 +13,6 @@ Cycloconverter is used to convert a constant AC frequency into an adjustable AC 
 
 <img src="Image/image-3.png">
 
-<img src="Image/image-1.png">
+<img src="Image/image-5.png">
 
 <img src="Image/image-2.png">
