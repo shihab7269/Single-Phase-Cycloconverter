@@ -11,7 +11,8 @@ This example show how to drive a Mid point type cyclo-converter topology.
 ### Mid point type topology
 Cycloconverter is used to convert a constant AC frequency into an adjustable AC frequency. Conventional mid-point cycloconverter shown in Fig. 1 uses two bidirectional TRIAC as switches and one center-tapped transformer. The output waveforms for mid-point cycloconverter always maintain a fixed ration i.e. fo = fi/3. The conversion techniques are shown in Fig. 2 and Fig. 3 for 25 Hz (fo = fi/2) and 16.67 Hz (fo = fi/3) frequency conversion of 50 Hz fuudamental respectively.
 
-<img src="Image/image-3.png"> <img src="Image/image-5.png" width="490">
+<img src="Image/image-3.png"> 
+<img src="Image/image-5.png" width="490">
 <img src="Image/image-2.png" width="500">
 
 ### Hardware Implementation
@@ -30,7 +31,8 @@ To build the mid point type circuit, the following components are used:
       5. Arduino Uno Micro-controller.
 
 The following figures show the printed circuit board (PCB) design and prototype hardware of the mid-point type cycloconverter.
-<img src="Image/image-6.png" width="500"> <img src="Image/image-7.png" width="500">
+<img src="Image/image-6.png" width="500"> 
+<img src="Image/image-7.png" width="500">
 
 ### Software/Coding 
 To generate the gate driving pulse, Arduino uno board is used. The following pin's are used:
@@ -41,5 +43,7 @@ Here, total four arduino files are uploaded for four different frequency convers
 
 ### Output
 The following figures show the output voltage of the mid point type cycloconverter.
-<img src="Image/t1.bmp" width="500"> <img src="Image/t2.bmp" width="500">
+
+<img src="Image/t1.bmp" width="500"> 
+<img src="Image/t2.bmp" width="500">
 <img src="Image/t3.bmp" width="500">
