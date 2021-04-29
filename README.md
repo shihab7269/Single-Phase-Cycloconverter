@@ -37,8 +37,9 @@ To generate the gate driving pulse, Arduino uno board is used. The following pin
        1. INPUT: Digital pin-7
        2. OUTPUT: Digital pin-3, 2 (where 3 for T1 and 2 for T1 switch according to the designed circuit.)
 
-Here, total four arduino files are uploaded. Just download the code and upload to your arduino uno board.
+Here, total four arduino files are uploaded for four different frequency conversion. Just download the code and upload to your arduino uno board.
 
 ### Output
 The following figures show the output voltage of the mid point type cycloconverter.
-<img src="Image/.BMP" width="500">
+<img src="Image/t1.bmp" width="500"> <img src="Image/t2.bmp" width="500">
+<img src="Image/t3.bmp" width="500">
