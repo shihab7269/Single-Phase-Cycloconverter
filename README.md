@@ -41,4 +41,4 @@ Here, total four arduino files are uploaded. Just download the code and upload t
 
 ### Output
 The following figures show the output voltage of the mid point type cycloconverter.
-<img src="Image/TEK0002.BMP" width="500">
+<img src="Image/.BMP" width="500">
