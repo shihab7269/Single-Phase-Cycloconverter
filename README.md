@@ -31,3 +31,7 @@ To build the mid point type circuit, the following components are used:
 
 The following figures show the printed circuit board (PCB) design and prototype hardware of the mid-point type cycloconverter.
 <img src="Image/image-6.png" width="500"> <img src="Image/image-7.png" width="500">
+
+### Software/Coding 
+To generate the gate driving pulse, Arduino uno board is used. The following pin's are used:
+       1. 
