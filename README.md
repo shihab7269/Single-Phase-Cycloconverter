@@ -29,5 +29,5 @@ To build the mid point type circuit, the following components are used:
       4. 4N35 (Zero-cross detector opto-coupler)
       5. Arduino Uno Micro-controller.
 
-The following figure shows the printed circuit board (PCB) design of the mid-point type cycloconverter.
-<img src="Image/image-6.png" width="500">
+The following figures show the printed circuit board (PCB) design and prototype hardware of the mid-point type cycloconverter.
+<img src="Image/image-6.png" width="500"> <img src="Image/image-7.png" width="400">
