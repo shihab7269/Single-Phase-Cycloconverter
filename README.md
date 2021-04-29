@@ -43,7 +43,7 @@ To generate the gate driving pulse, Arduino uno board is used. The following pin
 Here, total four arduino files are uploaded for four different frequency conversion. Just download the code and upload to your arduino uno board.
 
 ### Output
-The following figures show the output voltage of the mid point type cycloconverter.
+The following figures show the output voltage of the mid point type cycloconverter taking from a two channel digital oscilloscope.
 
 <img src="Image/t1.bmp" width="500"> 
 <img src="Image/t2.bmp" width="500">
