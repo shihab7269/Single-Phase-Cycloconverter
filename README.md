@@ -39,7 +39,7 @@ The following figures show the printed circuit board (PCB) design and prototype 
 To generate the gate driving pulse, Arduino uno board is used. The following pin's are used:
 
        1. INPUT: Digital pin-7
-       2. OUTPUT: Digital pin-3, 2 (where 3 for T1 and 2 for T1 switch according to the designed circuit.)
+       2. OUTPUT: Digital pin-3, 2 (where 3 for T1 and 2 for T2 switch according to the designed circuit.)
 
 Here, total four arduino files are uploaded for four different frequency conversion. Just download the code and upload to your arduino uno board.
 
